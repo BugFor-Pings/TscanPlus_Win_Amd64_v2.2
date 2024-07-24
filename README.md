@@ -1,6 +1,6 @@
 # TscanPlus_Win_Amd64_v2.2
 
-本项目是TscanPlus_Win_Amd64_v2.2超雄版的备份仓库，原仓库已删库
+本项目是TscanPlus_Win_Amd64_v2.2超雄版的备份仓库
 
 本文件仅限交流学习使用,一切未经授权的渗透破解都是违法行为
 
